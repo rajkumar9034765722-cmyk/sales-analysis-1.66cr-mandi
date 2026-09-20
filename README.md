@@ -33,3 +33,11 @@ Skills: Python | SQL | Power BI | Excel
 import pandas as pd
 df = pd.read_csv('sales_data.csv')
 print(df.head())
+import pandas as pd
+
+df = pd.read_csv('sales_data.csv')
+print(f"Total: Rs {df['Amount'].sum()/10000000:.2f} Cr")
+
+top5 = df.groupby('Product')['Amount'].sum().sort_values(ascending=False).head(5)
+print(top5)
+print("Top 5 = 60% Revenue - Mandi Dabwali Insight")
