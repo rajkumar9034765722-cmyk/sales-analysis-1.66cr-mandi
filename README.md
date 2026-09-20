@@ -1,8 +1,7 @@
 # 📊 Rs 1.66 Cr Mandi Sales Analysis - Mandi Dabwali
 
 > Real retail data analysis from Mandi Dabwali, Haryana | Python + Pandas + Data Visualization
-
-🔗 **LinkedIn Post:** [View Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+🔗 **LinkedIn Post:** [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7507367475244699648/)
 
 ### 🚀 Project Overview
 Analyzed 1.66 Crore retail transactions to find top products, seasonal trends, and profit optimization.
