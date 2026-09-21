@@ -5,19 +5,10 @@
 
 ### 🚀 Project Overview
 Analyzed 1.66 Crore retail transactions to find top products, seasonal trends, and profit optimization.
-
 PROJECTS
-- Mandi Dabwali Sales Analysis (Rs 1.66 Cr) |[ GitHub: github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi]([url]
-  Python, Pandas, Matplotlib - Analyzed 200+ sales, built monthly trend chart
-  
-### 🛠️ Tech Stack
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
+- Mandi Dabwali Sales Analysis (Rs 1.66 Cr) | [GitHub: github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url](url))))))))))))))))))))))
 
-### 🔍 Key Insights
-- Top 5 products = 60% revenue
-- Diwali season peak sales identified
+  Python, Pandas, Matplotlib - Analyzed 200+ sales, built monthly trend chart
 - 15% profit loss due to overstocking
 - Dashboard created for daily tracking
 
