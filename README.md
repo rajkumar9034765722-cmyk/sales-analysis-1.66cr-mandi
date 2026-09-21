@@ -5,6 +5,9 @@
 
 ### 🚀 Project Overview
 Analyzed 1.66 Crore retail transactions to find top products, seasonal trends, and profit optimization.
+Project: Rs 1.66 Cr Sales Analysis - Mandi Dabwali
+GitHub: github.com
+Work: Python se 200 sales ka data analyze kiya, Monthly Chart banaya
 
 ### 🛠️ Tech Stack
 - Python, Pandas, NumPy
@@ -21,9 +24,6 @@ Analyzed 1.66 Crore retail transactions to find top products, seasonal trends, a
 - `sales_data.csv` - Raw mandi data
 - `analysis.ipynb` - Full Python code
 - `dashboard.png` - Visualizations
-
-
-
 
 
 ### 👨‍💻 About Me
