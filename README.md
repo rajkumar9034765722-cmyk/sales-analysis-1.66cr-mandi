@@ -85,4 +85,11 @@ plt.savefig('Monthly_Trend_Rajkumar.png', dpi=300)
 plt.show()
 
 print("\n✅ All 8 tasks done! Monthly_Trend_Rajkumar.png saved!")
+PROJECT: Sales Analysis - Rs 1.66 Cr Revenue Dashboard
+Location: Mandi Dabwali Retail | Tools: Python, Pandas, Matplotlib, GitHub
+Link: github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi
 
+- Analyzed 200 sales transactions (6 Months Data)
+- Calculated: Daily Sales, Monthly Trends, MoM Growth (11.3% High, -17.7% Low)
+- Visualized: Monthly Sales Trend Chart (Green line chart as seen on GitHub)
+- Automated 8 business KPIs in Python - Code + Output LIVE on GitHub
