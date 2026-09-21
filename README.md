@@ -5,10 +5,11 @@
 
 ### 🚀 Project Overview
 Analyzed 1.66 Crore retail transactions to find top products, seasonal trends, and profit optimization.
-Project: Rs 1.66 Cr Sales Analysis - Mandi Dabwali
-GitHub: github.com
-Work: Python se 200 sales ka data analyze kiya, Monthly Chart banaya
 
+PROJECTS
+- Mandi Dabwali Sales Analysis (Rs 1.66 Cr) |[ GitHub: github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi]([url]
+  Python, Pandas, Matplotlib - Analyzed 200+ sales, built monthly trend chart
+  
 ### 🛠️ Tech Stack
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
@@ -93,3 +94,6 @@ Link: github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi
 - Calculated: Daily Sales, Monthly Trends, MoM Growth (11.3% High, -17.7% Low)
 - Visualized: Monthly Sales Trend Chart (Green line chart as seen on GitHub)
 - Automated 8 business KPIs in Python - Code + Output LIVE on GitHub
+PROJECTS
+- Mandi Dabwali Sales Analysis (Rs 1.66 Cr) | GitHub: github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi
+  Python, Pandas, Matplotlib - Analyzed 200+ sales, built monthly trend chart
