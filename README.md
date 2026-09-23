@@ -26,8 +26,8 @@ print(df.head())
 
 # Mandi Dabwali Sales Dashboard - Rs 166 Lakh
 
-**Live Link:** https://designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad
-
+**Live Link:** [https://designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad
+]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url](url))))))))))))))))))))
 KPIs:
 - Implements: Rs 62.00L (31.3%)
 - Baling: Rs 44.50L (26.8%)
