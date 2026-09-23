@@ -20,7 +20,7 @@ Skills: Python, SQL, Power BI | Open to Remote / Chandigarh / Delhi NCR Internsh
 
 # Mandi Dabwali Sales Dashboard - Rs 166 Lakh
 
-**Live Link:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajkumar9034765722-cmyk/sales-analysis-1.66cr-/blob/main/notebook.ipynb)
+**Live Link:** 
 KPIs:
 - Implements: Rs 62.00L (31.3%)
 - Baling: Rs 44.50L (26.8%)
