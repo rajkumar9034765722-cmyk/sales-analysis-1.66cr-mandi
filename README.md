@@ -24,3 +24,14 @@ import pandas as pd
 df = pd.read_csv('data.csv')
 print(df.head())
 
+# Mandi Dabwali Sales Dashboard - Rs 166 Lakh
+
+**Live Link:** https://designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad
+
+KPIs:
+- Implements: Rs 62.00L (31.3%)
+- Baling: Rs 44.50L (26.8%)
+- Wheat Agro Inputs: Rs 22.30L (13.4%)
+- Total: Rs 166 Lakh
+
+Built for Mandi Dabwali Region FY 2023-24
