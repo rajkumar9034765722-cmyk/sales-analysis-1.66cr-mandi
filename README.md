@@ -1,8 +1,5 @@
 # Rs 1.66 Cr Mandi Sales Analysis - Mandi Dabwali
-
-[!Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-[Open Notebook in Colab](https://colab.research.google.com/github/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi/blob/main/Rajkumar_Sales_Analysis_Mandi.ipynb)
-
+**Livelink:**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajkumar9034765722-cmyk/sales-analysis-1.66cr-/blob/main/notebook.ipynb)
 ## Project Overview
 Analyzed 200+ retail transactions from Mandi Dabwali, Haryana.
 - **Total Sales:** Rs 1.66 Cr
