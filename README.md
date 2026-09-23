@@ -17,21 +17,32 @@ Analyzed 200+ retail transactions from Mandi Dabwali, Haryana.
 ## About Me
 **Rajkumar Kushwaha | Aspiring Data Analyst | BCA Student from Yamunanagar, Haryana**
 Skills: Python, SQL, Power BI | Open to Remote / Chandigarh / Delhi NCR Internship
+# Mandi Dabwali Sales Dashboard - Rs 166 Lakh
 
-## How to Run
-```python
-import pandas as pd
-df = pd.read_csv('data.csv')
-print(df.head())
+**Live Link:** [https://designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad
+]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url](url)))))))))))))))))
 
-##Mandi Dabwali Sales Dashboard - Rs 166 Lakh
+KPIs:
+- Implements: Rs 62.00L (31.3%)
+- Baling: Rs 44.50L (26.8%)
+- Wheat Agro Inputs: Rs 22.30L (13.4%)
+- Total: Rs 166 Lakh
 
-**Live Link:** [[https://designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url](url)))))))))))
+Built for Mandi Dabwali Region FY 2023-24# Mandi Dabwali Sales Dashboard - Rs 166 Lakh
 
-##KPIs:
+**Live Link:** https://designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad
+
+KPIs:
 - Implements: Rs 62.00L (31.3%)
 - Baling: Rs 44.50L (26.8%)
 - Wheat Agro Inputs: Rs 22.30L (13.4%)
 - Total: Rs 166 Lakh
 
 Built for Mandi Dabwali Region FY 2023-24
+## How to Run
+```python
+import pandas as pd
+df = pd.read_csv('data.csv')
+print(df.head())
+
+
