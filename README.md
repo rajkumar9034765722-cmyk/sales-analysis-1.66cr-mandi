@@ -1,6 +1,6 @@
 # Rs 1.66 Cr Mandi Sales Analysis - Mandi Dabwali
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[!Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 [Open Notebook in Colab](https://colab.research.google.com/github/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi/blob/main/Rajkumar_Sales_Analysis_Mandi.ipynb)
 
 ## Project Overview
@@ -20,9 +20,7 @@ Skills: Python, SQL, Power BI | Open to Remote / Chandigarh / Delhi NCR Internsh
 
 # Mandi Dabwali Sales Dashboard - Rs 166 Lakh
 
-**Live Link:** [https://www.designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad
-]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url](url)))))))))))))))))
-
+**Live Link:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajkumar9034765722-cmyk/sales-analysis-1.66cr-/blob/main/notebook.ipynb)
 KPIs:
 - Implements: Rs 62.00L (31.3%)
 - Baling: Rs 44.50L (26.8%)
