@@ -17,7 +17,7 @@ Skills: Python, SQL, Power BI | Open to Remote / Chandigarh / Delhi NCR Internsh
 
 # Mandi Dabwali Sales Dashboard - Rs 166 Lakh
 
-**Live Link:** 
+**Live Link:** [https://htigh8-859xw5nsl-arcadawebapps2.vercel.app/](https://htigh8-859xw5nsl-arcadawebapps2.vercel.app/)
 KPIs:
 - Implements: Rs 62.00L (31.3%)
 - Baling: Rs 44.50L (26.8%)
