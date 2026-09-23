@@ -20,7 +20,7 @@ Skills: Python, SQL, Power BI | Open to Remote / Chandigarh / Delhi NCR Internsh
 
 # Mandi Dabwali Sales Dashboard - Rs 166 Lakh
 
-**Live Link:** [https://designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad
+**Live Link:** [https://www.designarena.ai/chat/1ce1960c-132b-4626-9bab-472e7ce7fdad
 ]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url](url)))))))))))))))))
 
 KPIs:
