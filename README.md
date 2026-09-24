@@ -79,7 +79,7 @@ Modern analytics view:
 > Commercial Agribusiness & Industrial Equipment Division - Sirsa Sector
 > Wholesale distribution hub serving Haryana-Punjab-Rajasthan
 
-🔗 **Live Dashboard:** https://mchc8a-rflhgjjbo-arcedawebapps1.vercel.app
+🔗 **Live Dashboard:** file:///C:/Users/Toshiba/AppData/Local/Temp/Temp1_website-acb65842-15bd-4798-a870-
 🔗 **Video Demo:** Check repository
 📍 **Location:** Mandi Dabwali, Haryana 125104
 
