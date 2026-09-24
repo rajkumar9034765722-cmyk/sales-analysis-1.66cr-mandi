@@ -25,57 +25,74 @@ Skills: Python, SQL, Power BI | Open to Remote / Chandigarh / Delhi NCR Internsh
 ![Location](https://img.shields.io/badge/Hub-Mandi%20Dabwali%20(125104)-blue?style=for-the-badge)
 
 ---
+# 🌾 Sales Analysis - ₹1.66Cr Mandi Dabwali Hub
+### Mandi Dabwali Region | FY 2023-24 Consolidated Performance
 
-### 📍 Overview
-Integrated sales performance dashboard for **Commercial Agribusiness & Industrial Equipment Division, Sirsa Sector**. 
-Headquartered at GT Road, Mandi Dabwali (125104) - serving the strategic Haryana-Punjab-Rajasthan border belt.
+**🔗 Live Demo:** https://htigh8-859xw5nsl-arcadawebapps2.vercel.app/
 
-The dashboard tracks performance across 4 core verticals: Agricultural Implements, Cotton Ginning, Kinnow Citrus Processing, and Fertilizer Wholesale.
+![Dashboard Banner](https://img.shields.io/badge/Turnover-₹166L-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
+![Location](https://img.shields.io/badge/Hub-Mandi%20Dabwali%20(125104)-blue?style=for-the-badge)
 
-### 📊 KPIs Tracked
+---
+## 📹 Northstar System Validation
+This project is validated on **Northstar Mandi Management System** (as shown in your video).
 
-| Metric | Value | Insight |
-| :--- | :--- | :--- |
-| **Total Realized Sales** | ₹166.00 Lakh | +14.2% YoY vs ₹145.3L (FY23) |
-| **Order Invoicing** | 1,842 Dispatches | Avg ₹90.1k / order |
-| **Active Dealer Base** | 52 Partners | +6 New onboarded |
-| **Payment Realization** | ₹161.4L (97.2%) | DSO: 26.4 Days, Outstanding: ₹4.6L |
-| **Target Attainment** | 94.86% | Against ₹175L Annual Plan |
+> **Sales Overview (Northstar)**
+> - Total Sales: **₹166.00L / ₹180.00L**
+> - Attainment: **92.2%**
+> - Total Entries: **1660**
+> - Store Location: **Mandi Dabwali**
+> - Products: Paddy, Mustard, Cotton, Wheat
 
-### 📦 Product Breakdown (₹166L)
+## 📊 Key KPIs
 
-- **Tractor Trolleys & Implements:** ₹52.00L (31.3%) - 348 Units, 22.4% Margin, +18.5% YoY
-- **Cotton Ginning & Baling:** ₹44.50L (26.8%) - 112 Plants, 18.6% Margin, +11.2% YoY
-- **Mustard & Wheat Agro Inputs:** ₹35.20L (21.2%) - 890 Quintals, 12.1% Margin
-- **Kinnow Citrus Grading Spares:** ₹22.30L (13.4%) - 215 Systems, 26.8% Margin
-- **Hydraulics & Fabrications:** ₹12.00L (7.2%) - 2,140 Lots, 31.5% Margin
+| Metric | Value |
+| :--- | :--- |
+| **Realized Sales** | ₹166.00 Lakh |
+| **Target Plan** | ₹180.00 Lakh |
+| **Attainment** | 92.2% |
+| **Total Transactions** | 1,660 |
+| **Dealer Network** | 52 Partners |
 
-### 🗺️ Geographic Revenue - Dabwali Arterial Corridors
+## 📦 Product-wise Breakdown
+- Paddy: ~35% (Kharif peak)
+- Cotton: ~27% (Ginning belt)
+- Wheat: ~21% (Rabi season)
+- Mustard: ~17% (Chautala-Sangaria)
 
-- **Malout - Bathinda Corridor (Punjab Border):** ₹58.10L (35%) - Heavy-duty cotton trolleys
-- **Chautala - Sangaria Belt (Rajasthan Border):** ₹46.48L (28%) - Kinnow & mustard inputs
-- **GT Road Main Market & Anaj Mandi:** ₹38.18L (23%) - Wholesale seeds & spares
-- **Kalanwali - Rania Rural Link:** ₹23.24L (14%) - Tractor repair & agro-chemicals
+Detailed:
+- Tractor Trolleys: ₹52.00L (31.3%)
+- Cotton Ginning: ₹44.50L (26.8%)
+- Agro Inputs: ₹35.20L (21.2%)
+- Kinnow Grading: ₹22.30L (13.4%)
+- Hydraulics: ₹12.00L (7.2%)
 
-### 📈 Monthly Trajectory (FY23-24)
+## 🗺️ Geographic Coverage
+- Malout-Bathinda: ₹58.10L (35%)
+- Chautala-Sangaria: ₹46.48L (28%)
+- GT Road & Anaj Mandi: ₹38.18L (23%)
+- Kalanwali-Rania: ₹23.24L (14%)
 
-Peak Month: **Oct '23 - ₹19.50L** (Paddy/Kharif Harvest Rush)
-Average: ₹13.83 Lakh/month
-Lowest Quarter: Q2 (₹36.80L) - Monsoon Sowing Interlude
+**Hub:** GT Road, Mandi Dabwali - 125104 (Haryana-Punjab-Rajasthan Border)
 
-### 🛠️ Tech Stack
+## 📈 Monthly Trend
+- Peak: Oct 2023 - ₹19.50L
+- Avg: ₹13.83L/month
+- YoY Growth: +14.2% vs FY22-23
 
-- **Frontend:** Tailwind CSS, Plus Jakarta Sans
-- **Charts:** Chart.js 4.4.1 (Bar + Doughnut)
-- **Hosting:** Vercel
-- **Features:** Quarter filtering (Q1-Q4), Dealer search, Audit export modal, Responsive glassmorphism UI
+## 🛠️ Tech Stack
+Tailwind CSS, Chart.js 4.4.1, Vercel, Northstar Backend Reference
+Features: Quarter filter, Dealer search, Sales records table
 
-### 🚀 How to Run Locally
-
-```bash
+## 🚀 How to Run
 git clone https://github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi.git
-cd sales-analysis-1.66cr-mandi
-# Just open index.html in browser - No build needed!
+# Open index.html - No build needed!
+
+## 👨‍💻 Author
+Raj Kumar | Mandi Dabwali Hub | Sales Analyst
+
+© 2024 Mandi Dabwali - FY 23-24 Concluded Audit | Data: Northstar Mandi System
 
 ## How to Run
 ```python
