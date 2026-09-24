@@ -2,8 +2,8 @@
 ### Consolidated Portfolio - FY 2023-24 | Live on Vercel
 
 **🔗 Live Links:**
-- Mandi Dashboard: https://mchc8a-rflhgjjbo-arcedawebapps1.vercel.app
-- Sales Pulse: https://htigh8-859xw5nsl-arcadawebapps2.vercel.app
+- Mandi Dashboard: https:https://htigh8-859xw5nsl-arcadawebapps2.vercel.app
+- Sales Pulse: https://mchc8a-rflhgjjbo-arcedawebapps1.vercel.app
 
 ![Sales](https://img.shields.io/badge/Sales-₹166L_+_$10.14-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
