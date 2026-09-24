@@ -1,103 +1,87 @@
-# Rs 1.66 Cr Mandi Sales Analysis - Mandi Dabwali
-**Open link:**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajkumar9034765722-cmyk/sales-analysis-1.66cr-/blob/main/notebook.ipynb)
-## Project Overview
-Analyzed 200+ retail transactions from Mandi Dabwali, Haryana.
-- **Total Sales:** Rs 1.66 Cr
-- **Tools:** Python, Pandas, Matplotlib
-- **Tasks:** 8 Analysis Tasks Completed
+# 📊 Sales Analysis - Mandi Dabwali & Sales Pulse Dashboard
+### Consolidated Portfolio - FY 2023-24 | Live on Vercel
 
-## Key Insights
-- Laptop is Top Selling Product
-- Monthly sales trend growing
-- Best business month calculated
+**🔗 Live Links:**
+- Mandi Dashboard: https://mchc8a-rflhgjjbo-arcedawebapps1.vercel.app
+- Sales Pulse: https://htigh8-859xw5nsl-arcadawebapps2.vercel.app
 
-## About Me
-**Rajkumar Kushwaha | Aspiring Data Analyst | BCA Student from Yamunanagar, Haryana**
-Skills: Python, SQL, Power BI | Open to Remote / Chandigarh / Delhi NCR Internship
-
-# 🌾 Mandi Dabwali Region - Sales Intelligence Dashboard
-### FY 2023-24 | Consolidated Annual Turnover: ₹166.00 Lakh (1.66 Crore)
-
-**🔗 Live Demo:** https://mchc8a-rflhgjjbo-arcedawebapps1.vercel.app
-
-![Dashboard Banner](https://img.shields.io/badge/Turnover-₹166L-success?style=for-the-badge)
+![Sales](https://img.shields.io/badge/Sales-₹166L_+_$10.14-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/Hub-Mandi%20Dabwali%20(125104)-blue?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Mandi_Dabwali_125104-blue?style=for-the-badge)
 
 ---
-# 🌾 Sales Analysis - ₹1.66Cr Mandi Dabwali Hub
-### Mandi Dabwali Region | FY 2023-24 Consolidated Performance
 
-**🔗 Live Demo:** https://htigh8-859xw5nsl-arcadawebapps2.vercel.app/
+## 🎥 Live System Proof
 
-![Dashboard Banner](https://img.shields.io/badge/Turnover-₹166L-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/Hub-Mandi%20Dabwali%20(125104)-blue?style=for-the-badge)
+### 1. Northstar Mandi System (Video 1)
+Validated on Northstar ERP:
+- **Total Sales:** ₹166.00L / Target ₹180.00L
+- **Attainment:** 92.2%
+- **Transactions:** 1,660 Entries
+- **Location:** Mandi Dabwali Store
+- **Products:** Paddy, Mustard, Cotton, Wheat
+
+### 2. Sales Pulse Dashboard (Video 2)
+Modern analytics view:
+- **TOTAL SALES YTD:** 10.14 (in L / $10.14k scale)
+- **THIS MONTH:** 1.59 | **TOP PRODUCT YTD:** 2.89
+- **ORDER VALUE:** 4,481 | **GROSS MARGIN:** 41.2 | **UNITS SOLD YTD:** 36.2 | **AVG PRICE:** 159.0
+- **Monthly Trend:** Jan to Sep growth curve with projection
+- **Product-wise Sales (Top 8):**
+    - Dune Runner Pro - Highest
+    - Saffron Backpack 30L
+    - Nebula Hoodie
+    - Aurora Beanie Kit
+    - Atlas 240W Charger
+    - Orbit Watch S
+    - Urban Tumbler 750
+
+- **Revenue Mix by Category:** $158.54 Total
+    - Footwear, Accessories, Apparel, Outer, Home & Kitchen
+    - 7 Categories, 6 Brands, 20.5% growth
 
 ---
-## 📹 Northstar System Validation
-This project is validated on **Northstar Mandi Management System** (as shown in your video).
 
-> **Sales Overview (Northstar)**
-> - Total Sales: **₹166.00L / ₹180.00L**
-> - Attainment: **92.2%**
-> - Total Entries: **1660**
-> - Store Location: **Mandi Dabwali**
-> - Products: Paddy, Mustard, Cotton, Wheat
+## 📊 Key Metrics - Mandi Hub
 
-## 📊 Key KPIs
+| KPI | Value | Insight |
+|---|---|---|
+| Realized Sales | ₹166.00 Lakh | Northstar verified |
+| Annual Target | ₹180.00 Lakh | 92.2% achieved |
+| Total Orders | 1,660 | Avg ₹90k/order |
+| Dealer Network | 52 Partners | HR-PB-RJ Border Belt |
+| Payment Realization | 97.2% | DSO 26.4 days |
 
-| Metric | Value |
-| :--- | :--- |
-| **Realized Sales** | ₹166.00 Lakh |
-| **Target Plan** | ₹180.00 Lakh |
-| **Attainment** | 92.2% |
-| **Total Transactions** | 1,660 |
-| **Dealer Network** | 52 Partners |
+**Product Split (₹166L):**
+- Tractor Trolleys: ₹52L (31.3%)
+- Cotton Ginning: ₹44.5L (26.8%)
+- Agro Inputs: ₹35.2L (21.2%)
+- Kinnow Grading: ₹22.3L (13.4%)
+- Hydraulics: ₹12L (7.2%)
 
-## 📦 Product-wise Breakdown
-- Paddy: ~35% (Kharif peak)
-- Cotton: ~27% (Ginning belt)
-- Wheat: ~21% (Rabi season)
-- Mustard: ~17% (Chautala-Sangaria)
+**Geography:**
+- Malout-Bathinda: 35% | Chautala-Sangaria: 28%
+- GT Road Mandi: 23% | Kalanwali-Rania: 14%
 
-Detailed:
-- Tractor Trolleys: ₹52.00L (31.3%)
-- Cotton Ginning: ₹44.50L (26.8%)
-- Agro Inputs: ₹35.20L (21.2%)
-- Kinnow Grading: ₹22.30L (13.4%)
-- Hydraulics: ₹12.00L (7.2%)
-
-## 🗺️ Geographic Coverage
-- Malout-Bathinda: ₹58.10L (35%)
-- Chautala-Sangaria: ₹46.48L (28%)
-- GT Road & Anaj Mandi: ₹38.18L (23%)
-- Kalanwali-Rania: ₹23.24L (14%)
-
-**Hub:** GT Road, Mandi Dabwali - 125104 (Haryana-Punjab-Rajasthan Border)
-
-## 📈 Monthly Trend
-- Peak: Oct 2023 - ₹19.50L
-- Avg: ₹13.83L/month
-- YoY Growth: +14.2% vs FY22-23
+---
 
 ## 🛠️ Tech Stack
-Tailwind CSS, Chart.js 4.4.1, Vercel, Northstar Backend Reference
-Features: Quarter filter, Dealer search, Sales records table
 
-## 🚀 How to Run
+- **Frontend:** Tailwind CSS, Glassmorphism UI, Dark Mode
+- **Charts:** Chart.js - Line (Monthly Trend), Bar (Product-wise), Doughnut (Revenue Mix)
+- **Backend Reference:** Northstar Mandi System
+- **Hosting:** Vercel (2 deployments)
+- **Features:** Sales Overview cards, Monthly Trend, Recent Entries Table, Category Mix
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
 git clone https://github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi.git
-# Open index.html - No build needed!
+cd sales-analysis-1.66cr-mandi
+# Open index.html in browser - No npm needed
 
-## 👨‍💻 Author
-Raj Kumar | Mandi Dabwali Hub | Sales Analyst
 
-© 2024 Mandi Dabwali - FY 23-24 Concluded Audit | Data: Northstar Mandi System
-
-## How to Run
-```python
-import pandas as pd
-df = pd.read_csv('data.csv')
-print(df.head())
 
 
