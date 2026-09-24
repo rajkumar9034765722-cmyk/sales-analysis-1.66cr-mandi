@@ -73,6 +73,70 @@ Modern analytics view:
 - **Hosting:** Vercel (2 deployments)
 - **Features:** Sales Overview cards, Monthly Trend, Recent Entries Table, Category Mix
 
+# 🌾 Mandi Dabwali Region - Sales Pulse Dashboard
+### FY 2023-24 Concluded | ₹1.66 Cr Annual Turnover
+
+> Commercial Agribusiness & Industrial Equipment Division - Sirsa Sector
+> Wholesale distribution hub serving Haryana-Punjab-Rajasthan
+
+🔗 **Live Dashboard:** https://mchc8a-rflhgjjbo-arcedawebapps1.vercel.app
+🔗 **Video Demo:** Check repository
+📍 **Location:** Mandi Dabwali, Haryana 125104
+
+---
+
+### 📊 KPI Overview - FY 2023-24
+
+| Metric | Value | Insight |
+| :--- | :--- | :--- |
+| **Annual Turnover** | **₹166.00 Lakh (₹1.66 Cr)** | Total Concluded FY |
+| **Total Realized Sales** | ₹166.00 Lakh | 94.26% Target Achieved |
+| **Order Invoicing** | **1,842** Billed Dispatches | -15.7% Volume, Avg ₹90k / order |
+| **Active Dealer Base** | **52** Verified Partners | 100% Delivered, Cash/Credit |
+| **Payment Realization** | ₹161.4 Lakh | 97.27% Collection |
+
+---
+
+### 📈 Dashboard Features
+
+**1. Monthly Sales Trajectory & Targets**
+- Bar + Line combo chart - Target vs Achieved
+- Seasonal trends: Q1 (₹37.50L), Q2 (₹54.80L) peak
+
+**2. Detailed Product Points & Margin**
+- Product-wise profitability analysis
+- Brands: VST Tillers, Hydraulic Trolley, Cotton Ginning, Kinovar
+
+**3. Top Dealer Invoicing & Transactions (Mandi Dabwali)**
+- Dealer performance ranking
+- Primary Category, Dispatch Destination, Invoice Amount
+
+**4. Product Share Analysis**
+- Donut chart - Revenue contribution by product
+
+---
+
+### 💡 Key Insights Found
+
+✅ **Top 5 products driving 60% of ₹1.66 Cr revenue**
+✅ **Seasonal sales decoded:** Kharif season = peak sales
+✅ **52 dealers mapped:** Dabwali, Rania, Kalanwali, Sirsa belt
+✅ **15% profit optimization:** Found low-margin product leakages
+✅ **Payment Cycle:** 97% collection efficiency
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript, Chart.js
+- **Data Analysis:** Python, Pandas, Matplotlib
+- **Deployment:** Vercel
+- **Data Source:** Northstar ERP (1,842 invoices)
+- **Design:** Dark Theme, Responsive KPI Cards
+
+---
+
+### 📁 Project Structure
 ---
 
 ## 🚀 How to Run Locally
