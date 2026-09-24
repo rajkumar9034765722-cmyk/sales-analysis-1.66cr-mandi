@@ -136,18 +136,6 @@ Modern analytics view:
 
 ---
 
-## 🚀 How to Run Locally
-
-```bash
-git clone https://github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi.git
-cd sales-analysis-1.66cr-mandi
-# Open index.html in browser - No npm needed
-
----
-
-
----
-
 ### 🚀 About Me
 **Rajkumar Kushwaha**
 Aspiring Data Analyst | Mandi Dabwali, Haryana
@@ -157,3 +145,15 @@ Open to: Data Analyst Intern | Remote / Chandigarh / Yamunanagar
 **Built with ❤️ from Mandi Dabwali (125104) to Data World**
 
 #DataAnalytics #Python #MandiDabwali #SalesDashboard #ChartJS #Vercel #Haryana #RetailAnalytics #DataAnalyst
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/rajkumar9034765722-cmyk/sales-analysis-1.66cr-mandi.git
+cd sales-analysis-1.66cr-mandi
+# Open index.html in browser - No npm needed
+
+---
+
