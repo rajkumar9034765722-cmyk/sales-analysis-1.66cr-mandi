@@ -1,7 +1,7 @@
 # 📊 Sales Analysis - Mandi Dabwali & Sales Pulse Dashboard
 ### Consolidated Portfolio - FY 2023-24 | Live on Vercel
 
-**🔗 Live Links:** file:///C:/Users/Toshiba/Downloads/index%20(1).html
+**🔗 Live Links:** jolly-mandazi-2f668a/
 - Mandi Dashboard: https:https://htigh8-859xw5nsl-arcadawebapps2.vercel.app
 - Sales Pulse: https://mchc8a-rflhgjjbo-arcedawebapps1.vercel.app
 
