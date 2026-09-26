@@ -2,6 +2,7 @@
 ### Consolidated Portfolio - FY 2023-24 | Live on Vercel
 
 **🔗 Live Links:** 
+-  Pulse Dashboard:https://01a0db6c-9065-74e6-8a56-2e1f899ff9ac.arena.site/
 - Mandi Dashboard: https:https://htigh8-859xw5nsl-arcadawebapps2.vercel.app
 - Sales Pulse: https://mchc8a-rflhgjjbo-arcedawebapps1.vercel.app
 
