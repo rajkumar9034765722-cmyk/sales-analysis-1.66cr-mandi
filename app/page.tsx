@@ -1,38 +1,37 @@
-export default function Page() {
+"use client";
+import { useState } from "react";
+
+export default function Dashboard() {
   return (
-    <div style={{background:'#0f1115', minHeight:'100vh', color:'white', padding:'24px', fontFamily:'system-ui'}}>
-      <h1 style={{fontSize:'32px', fontWeight:'bold'}}>🌾 Mandi Dabwali Sales Pulse</h1>
-      <p style={{opacity:0.7, marginTop:'8px'}}>FY 2023-24 | Rs. 1.66Cr Turnover | 52 Dealers | 97.2% Collection</p>
-      
-      <div style={{display:'grid', gridTemplateColumns:'repeat(auto-fit, minmax(220px, 1fr))', gap:'16px', marginTop:'24px'}}>
-        <div style={{background:'#1a1d24', padding:'20px', borderRadius:'16px', border:'1px solid #2a2d36'}}>
-          <div style={{opacity:0.5, fontSize:'12px'}}>REALIZED SALES</div>
-          <div style={{fontSize:'28px', fontWeight:'bold', marginTop:'8px'}}>Rs. 166.00L</div>
-          <div style={{color:'#22c55e', fontSize:'14px'}}>92.2% of Target</div>
+    <div className="min-h-screen bg-[#f8f9f3] p-4 md:p-8 font-sans">
+      {/* HEADER WITH LOGO */}
+      <header className="max-w-7xl mx-auto bg-white rounded-2xl p-4 flex items-center justify-between shadow-sm mb-6">
+        <div className="flex items-center gap-3">
+          <img src="/logo.png" alt="DataMind AI" className="h-12 w-auto" />
+          <div>
+            <h1 className="font-bold text-lg leading-none text-[#0f3923]">DataMind AI</h1>
+            <p className="text-xs text-[#b89b4e] tracking-[0.2em]">Mandi Intelligence</p>
+          </div>
         </div>
-        <div style={{background:'#1a1d24', padding:'20px', borderRadius:'16px', border:'1px solid #2a2d36'}}>
-          <div style={{opacity:0.5, fontSize:'12px'}}>TOTAL ORDERS</div>
-          <div style={{fontSize:'28px', fontWeight:'bold', marginTop:'8px'}}>1,660</div>
-          <div style={{opacity:0.7, fontSize:'14px'}}>Avg Rs. 90k</div>
+        <div className="text-right">
+          <p className="text-xs text-gray-400">Prepared for</p>
+          <p className="font-semibold text-sm">BBCR Mandi Dabwali</p>
+          <p className="text-xs text-green-600">FY 2023-24 • LIVE</p>
         </div>
-        <div style={{background:'#1a1d24', padding:'20px', borderRadius:'16px', border:'1px solid #2a2d36'}}>
-          <div style={{opacity:0.5, fontSize:'12px'}}>THIS MONTH</div>
-          <div style={{fontSize:'28px', fontWeight:'bold', marginTop:'8px'}}>1.59</div>
-          <div style={{opacity:0.7, fontSize:'14px'}}>Rs. 10.14k YTD</div>
-        </div>
-        <div style={{background:'#1a1d24', padding:'20px', borderRadius:'16px', border:'1px solid #2a2d36'}}>
-          <div style={{opacity:0.5, fontSize:'12px'}}>GROSS MARGIN</div>
-          <div style={{fontSize:'28px', fontWeight:'bold', marginTop:'8px'}}>41.2%</div>
-          <div style={{opacity:0.7, fontSize:'14px'}}>Product Margin</div>
+      </header>
+
+      {/* YOUR EXISTING DASHBOARD CODE STARTS HERE - Keep your charts below */}
+      <div className="max-w-7xl mx-auto">
+        <div className="bg-white rounded-2xl p-6 shadow-sm">
+          <h2 className="text-2xl font-bold">Rs. 1.66Cr Turnover • 52 Dealers</h2>
+          <p className="text-gray-500 mt-2">Dashboard is LIVE with new branding. Add your previous charts code below this line.</p>
         </div>
       </div>
 
-      <div style={{background:'#1a1d24', padding:'20px', borderRadius:'16px', border:'1px solid #2a2d36', marginTop:'16px'}}>
-        <div style={{fontWeight:'bold'}}>Product Split: Mustard 52L (31%) | Cotton 44.5L (27%) | Agro Inputs 35.2L (21%) | Kinnow Grading 22.3L (13%) | Hydraulics 12L (7%)</div>
-        <div style={{fontWeight:'bold', marginTop:'16px', opacity:0.8}}>Geography: Mandi Dabwali 49% | Chautala-Sangaria 28% | GT Road 23%</div>
-      </div>
-
-      <div style={{textAlign:'center', marginTop:'32px', opacity:0.5, fontSize:'12px'}}>Northstar ERP Verified • Mandi Dabwali • Vercel Live</div>
+      {/* FOOTER */}
+      <footer className="max-w-7xl mx-auto text-center mt-8 text-xs text-gray-400">
+        Powered by <span className="font-bold text-[#0f3923]">DataMind AI</span> • Northstar ERP Verified • Panipat, Haryana
+      </footer>
     </div>
-  )
+  );
 }
