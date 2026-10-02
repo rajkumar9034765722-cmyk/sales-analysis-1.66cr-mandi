@@ -1,22 +1,14 @@
-"use client";
-
+"use client"
 export default function Home() {
   return (
-    <div className="min-h-screen bg-[#f8f9f3] p-3 md:p-6 font-sans">
-      {/* HEADER */}
-      <div className="max-w-6xl mx-auto bg-white rounded-2xl px-5 py-3 flex items-center justify-between shadow-sm border">
-        <div className="flex items-center gap-3">
-          <img src="/logo.png" alt="logo" className="h-10 w-10 object-contain" />
-          <div>
-            <h1 className="font-black text-[#0f3923] text-[18px] leading-none">DataMind AI</h1>
-            <p className="text-[10px] tracking-[0.3em] text-[#b89b4e] mt-1">MANDI INTELLIGENCE</p>
-          </div>
-        </div>
-        <div className="text-right">
-          <p className="text-[11px] text-gray-400">BBCR • Mandi Dabwali</p>
-          <p className="text-xs font-bold text-green-700">FY 2023-24 LIVE</p>
-        </div>
-      </div>
+    <div style={{minHeight:"100vh", background:"#f8f9f3", display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center"}}>
+      <img src="/logo.png" alt="DataMind AI" style={{width:"380px", maxWidth:"90%", height:"auto"}} />
+      <h1 style={{fontSize:"42px", fontWeight:"900", color:"#0f3923", marginTop:"20px", fontFamily:"sans-serif"}}>DataMind AI</h1>
+      <p style={{letterSpacing:"6px", color:"#b89b4e", marginTop:"4px"}}>Mandi Intelligence</p>
+      <p style={{marginTop:"30px", fontSize:"12px", color:"#888"}}>Powered by DataMind AI • Mandi Dabwali</p>
+    </div>
+  )
+}
 
       {/* TITLE */}
       <div className="max-w-6xl mx-auto mt-6">
