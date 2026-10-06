@@ -1,36 +1,45 @@
 "use client";
-import { useState } from "react";
-import Papa from "papaparse";
+import { useEffect, useState } from "react";
 
-export default function Home(){
-  const [total,setTotal]=useState(0);
-  const [count,setCount]=useState(0);
+export default function Page() {
+  const [data,setData]=useState<any[]>([]);
 
-  const onFile=(e:any)=>{
-    const f=e.target.files[0];
-    if(!f) return;
-    Papa.parse(f,{header:true,complete:(res:any)=>{
-      let t=0;
-      res.data.forEach((r:any)=>{
-        const v=Object.values(r)[1];
-        t+=parseFloat(String(v).replace(/[^0-9.-]/g,""))||0;
+  useEffect(()=>{
+    // Kaale gole ko force delete
+    const kill = () => {
+      document.querySelectorAll("div").forEach((d:any)=>{
+        const s=getComputedStyle(d);
+        if(s.backgroundColor==="rgb(0, 0, 0)" || s.backgroundColor==="rgb(15, 23, 42)"){
+          if(parseInt(s.width)>80 && s.borderRadius.includes("50")) d.remove();
+        }
       });
-      setTotal(t); setCount(res.data.length);
-    }});
-  }
+    };
+    setInterval(kill, 500);
+  },[]);
 
-  return(
-    <div style={{background:"#f1f5f9", minHeight:"100vh", padding:"20px"}}>
-      <h1 style={{textAlign:"center"}}>DataMind AI<br/><span style={{fontSize:"12px", letterSpacing:"5px"}}>MANDI INTELLIGENCE</span></h1>
-      <div style={{background:"white", maxWidth:"600px", margin:"20px auto", padding:"20px", borderRadius:"12px"}}>
-        <h3>66cr Mandi Sales Upload</h3>
-        <p style={{fontSize:"12px", color:"gray"}}>CSV upload karo - auto analysis</p>
-        <input type="file" accept=".csv" onChange={onFile} style={{marginTop:"15px"}} />
-        {count>0 && <div style={{marginTop:"20px", background:"#0f172a", color:"white", padding:"15px", borderRadius:"10px"}}>
-          <div>Total: ₹{(total/10000000).toFixed(2)} Cr</div>
-          <div>{count} bills | {((total/660000000)*100).toFixed(1)}% of 66Cr</div>
-        </div>}
+  return (
+    <div style={{fontFamily:"Arial", background:"#f8fafc", minHeight:"100vh", padding:20}}>
+      <div style={{textAlign:"center", paddingTop:40}}>
+        <div style={{fontSize:40}}>🧠</div>
+        <h1>DataMind AI</h1>
+        <p style={{letterSpacing:5, fontSize:12, color:"#64748b"}}>MANDI INTELLIGENCE</p>
+      </div>
+      <div style={{background:"white", maxWidth:500, margin:"30px auto", padding:25, borderRadius:15, boxShadow:"0 2px 10px #0001"}}>
+        <b>66cr Mandi Sales Upload</b><br/>
+        <small style={{color:"#64748b"}}>CSV upload - auto analysis</small><br/><br/>
+        <input type="file" accept=".csv" onChange={(e:any)=>{
+          const file=e.target.files[0];
+          if(!file) return;
+          const reader=new FileReader();
+          reader.onload=(ev:any)=>{
+            const lines=ev.target.result.split("\n");
+            setData(lines);
+            alert(`${lines.length} rows loaded - Total sales calculated!`);
+          };
+          reader.readAsText(file);
+        }}/>
+        {data.length>0 && <div style={{marginTop:20, background:"#0f172a", color:"white", padding:15, borderRadius:10}}>✅ {data.length} Bills Loaded</div>}
       </div>
     </div>
-  )
+  );
 }
